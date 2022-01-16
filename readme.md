@@ -1,6 +1,6 @@
 e.# [GoldenRealEstate with Django](http://88.102.108.86/)
 
->> Полностью работоспособное приложение
+>> Fully working application
 
 
 ## Built With
